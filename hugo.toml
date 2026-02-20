@@ -1,0 +1,9 @@
+baseURL = "https://o-polimata.com/"
+languageCode = "pt-pt"
+title = "O Polimata"
+theme = "PaperMod"
+
+[params]
+  author = "Teu Nome"
+  ShowReadingTime = true
+  ShowShareButtons = true
